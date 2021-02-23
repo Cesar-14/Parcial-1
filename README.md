@@ -1,6 +1,6 @@
 # Documentación
 
-##Contenido
+## Contenido
 -	Shader creado en Unity usando HLSL
 -	Un modelo 3D donde aplicar el shader
 -	Shader basado en Lambert
@@ -9,7 +9,7 @@
 -	Control desde el material la intensidad del mapa de normal
 -	Cuenta con un efecto Phong, Wrap, Banded y Rim
 
-##Desarrollo
+## Desarrollo
 1.	Se crea un proyecto nuevo en Unity
 2.	Se crea un nuevo shader en Unlit con un modelo de luz Lambert
 3.	Se descarga un modelo 3D, en mi caso proveniente de Unity Assets Store: Space Robot Kyle | 3D Robots | Unity Asset Store
