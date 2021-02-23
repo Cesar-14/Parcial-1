@@ -12,7 +12,7 @@
 ## Desarrollo
 1.	Se crea un proyecto nuevo en Unity
 2.	Se crea un nuevo shader en Unlit con un modelo de luz Lambert
-3.	Se descarga un modelo 3D, en mi caso proveniente de Unity Assets Store: Space Robot Kyle | 3D Robots | Unity Asset Store
+3.	Se descarga un modelo 3D, en mi caso proveniente de Unity Assets Store: [Space Robot Kyle](https://assetstore.unity.com/packages/3d/characters/robots/space-robot-kyle-4696)
 4.	Se aplican los colores y texturas al shader con _Albedo y _MainTex
 5.	Se añade la normal para aplicar la textura y el strenght para que juntos puedan brindarnos un efecto más realista
 6.	Aplicamos el efecto Wrap para tener un control sobre las sombras y la luz
